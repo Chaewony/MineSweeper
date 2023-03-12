@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\GitHub\MineSweeper\MineSweeper\MineSweeper\main.cpp(478,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  MineSweeper.vcxproj -> D:\GitHub\MineSweeper\MineSweeper\Debug\MineSweeper.exe
